@@ -24,8 +24,6 @@ Passionate about building scalable applications and learning new technologies.
 - .NET Core for enterprise applications
 - System design & architecture
 
-## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReyhanZidany&show_icons=true&theme=dark)
 
 ## 📞 Let's Connect
 - LinkedIn: [Reyhan Zidany Jovianto](https://linkedin.com/in/reyhanzidanyjovianto)
